@@ -1,0 +1,35 @@
+# This will populate Conf global constant
+
+default: &default
+  hough:
+    bin: bin
+  facefp:
+    bin: bin
+    resources: lib/assets/mpface/
+  mpsynth:
+    bin: bin
+    resources: lib/assets/mpsynth
+    tmp_dir: /tmp/mpsynth/work
+  mkmov:
+    capture_file: lib/assets/mpsynth/capture/capture_single.txt
+  temp_files:
+    keep_files: true
+    max_life: 1.week
+
+development: &development
+  <<: *default
+
+staging:
+  <<: *default
+
+production:
+  <<: *default
+  temp_files:
+    keep_files: false
+    max_life: 1.hour
+
+test:
+  <<: *development
+  temp_files:
+    keep_files: false
+    max_life: 5.minutes

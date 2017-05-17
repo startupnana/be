@@ -1,0 +1,8 @@
+- user: mpapi
+  password: mp2014webapi
+- user: nsw
+  password: nsw_key
+- user: istudio
+  password: istudio_key
+# - user: anotheruser
+#   password: anotherpassword

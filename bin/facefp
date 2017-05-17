@@ -1,0 +1,11 @@
+#!/bin/sh
+
+
+unamestr=`uname`
+basedir=$(dirname "$0")
+
+PATH=$PATH:$basedir/$unamestr/
+PATH=/usr/local/bin/:$PATH
+PATH=/var/www/rails/bin/:$PATH
+
+facefp "$@"

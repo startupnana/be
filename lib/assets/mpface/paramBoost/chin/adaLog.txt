@@ -1,0 +1,90 @@
+layerIdx 0
+featureNum     17    featureCnt 17 errorMinFlag 0
+dRate 1.000000. fpRate 0.348259 <= fpRateMax 0.400000
+time for layer 171.313004
+time for FP    0.000000	fpSampleNum 0 fpSampleNumWant 0
+layerIdx 1
+featureNum     21    featureCnt 38 errorMinFlag 0
+dRate 1.000000. fpRate 0.373134 <= fpRateMax 0.400000
+time for layer 210.014999
+time for FP    0.453000	fpSampleNum 3216 fpSampleNumWant 1048
+layerIdx 2
+featureNum     37    featureCnt 75 errorMinFlag 0
+dRate 1.000000. fpRate 0.347015 <= fpRateMax 0.400000
+time for layer 372.282013
+time for FP    1.297000	fpSampleNum 3216 fpSampleNumWant 1008
+layerIdx 3
+featureNum     47    featureCnt 122 errorMinFlag 0
+dRate 1.000000. fpRate 0.383085 <= fpRateMax 0.400000
+time for layer 474.515015
+time for FP    2.625000	fpSampleNum 3216 fpSampleNumWant 1050
+layerIdx 4
+featureNum     71    featureCnt 193 errorMinFlag 0
+dRate 1.000000. fpRate 0.389925 <= fpRateMax 0.400000
+time for layer 723.609009
+time for FP    4.141000	fpSampleNum 3103 fpSampleNumWant 992
+layerIdx 5
+featureNum     70    featureCnt 263 errorMinFlag 0
+dRate 1.000000. fpRate 0.376244 <= fpRateMax 0.400000
+time for layer 711.968994
+time for FP    4.203000	fpSampleNum 1902 fpSampleNumWant 981
+layerIdx 6
+featureNum     81    featureCnt 344 errorMinFlag 0
+dRate 1.000000. fpRate 0.394279 <= fpRateMax 0.400000
+time for layer 824.515991
+time for FP    8.359000	fpSampleNum 1743 fpSampleNumWant 1003
+layerIdx 7
+featureNum     102    featureCnt 446 errorMinFlag 0
+dRate 1.000000. fpRate 0.365672 <= fpRateMax 0.400000
+time for layer 1042.031006
+time for FP    12.469000	fpSampleNum 1213 fpSampleNumWant 974
+layerIdx 8
+featureNum     99    featureCnt 545 errorMinFlag 0
+dRate 1.000000. fpRate 0.371891 <= fpRateMax 0.400000
+time for layer 1010.125000
+time for FP    24.889999	fpSampleNum 1072 fpSampleNumWant 1020
+layerIdx 9
+featureNum     108    featureCnt 653 errorMinFlag 0
+dRate 1.000000. fpRate 0.284204 <= fpRateMax 0.400000
+time for layer 1103.515991
+time for FP    45.594002	fpSampleNum 1016 fpSampleNumWant 1010
+layerIdx 10
+featureNum     104    featureCnt 757 errorMinFlag 0
+dRate 1.000000. fpRate 0.391169 <= fpRateMax 0.400000
+time for layer 1061.484009
+time for FP    128.421997	fpSampleNum 1161 fpSampleNumWant 1151
+layerIdx 11
+featureNum     116    featureCnt 873 errorMinFlag 0
+dRate 1.000000. fpRate 0.354478 <= fpRateMax 0.400000
+time for layer 1188.421997
+time for FP    207.156006	fpSampleNum 981 fpSampleNumWant 979
+layerIdx 12
+featureNum     94    featureCnt 967 errorMinFlag 0
+dRate 1.000000. fpRate 0.388682 <= fpRateMax 0.400000
+time for layer 958.578003
+time for FP    443.296997	fpSampleNum 1040 fpSampleNumWant 1038
+layerIdx 13
+featureNum     117    featureCnt 1084 errorMinFlag 0
+dRate 1.000000. fpRate 0.397388 <= fpRateMax 0.400000
+time for layer 1197.765015
+time for FP    861.593994	fpSampleNum 985 fpSampleNumWant 983
+layerIdx 14
+featureNum     121    featureCnt 1205 errorMinFlag 0
+dRate 1.000000. fpRate 0.387438 <= fpRateMax 0.400000
+time for layer 1240.281006
+time for FP    1574.140991	fpSampleNum 969 fpSampleNumWant 969
+layerIdx 15
+featureNum     128    featureCnt 1333 errorMinFlag 0
+dRate 1.000000. fpRate 0.340174 <= fpRateMax 0.400000
+time for layer 1310.343994
+time for FP    3200.202881	fpSampleNum 987 fpSampleNumWant 985
+layerIdx 16
+featureNum     121    featureCnt 1454 errorMinFlag 0
+dRate 1.000000. fpRate 0.332711 <= fpRateMax 0.400000
+time for layer 1244.984985
+time for FP    7195.280762	fpSampleNum 1061 fpSampleNumWant 1061
+layerIdx 17
+featureNum     114    featureCnt 1568 errorMinFlag 0
+dRate 1.000000. fpRate 0.356965 <= fpRateMax 0.400000
+time for layer 1171.921997
+time for FP    16650.828125	fpSampleNum 1073 fpSampleNumWant 1073
