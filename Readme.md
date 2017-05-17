@@ -1,6 +1,6 @@
 #Development usage
 ## Setup
-	$ [sudo] gem install bundler
+	$ [sudo] gem install bundle
 	$ [sudo] bundle install
     $ [bundle exec] rake db:migrate
 ## Running

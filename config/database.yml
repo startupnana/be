@@ -22,8 +22,8 @@ test:
 
 staging:
   <<: *default
-  database: ../staging.sqlite3
+  database: db/staging.sqlite3
 
 production:
   <<: *default
-  database: ../production.sqlite3
+  database: db/production.sqlite3
