@@ -91,4 +91,16 @@ Here is how to install them:
 
 Non brewable dependencies include XQuartz
 
+
+## Linux Ubuntu
+
+1. Install xerces-c
+$sudo apt-get install libxerces-c-dev libxerces-c3.1
+2. Install opencv 
+$ sudo apt-get install build-essential
+$ sudo apt-get install cmake git libgtk2.0-dev pkg-config libavcodec-dev libavformat-dev libswscale-dev
+$ sudo apt-get install python-dev python-numpy libtbb2 libtbb-dev libjpeg-dev libpng-dev libtiff5-dev libdc1394-22-dev
+3. Intall ffmpeg
+$ sudo apt-get install ffmpeg
+
 https://www.xquartz.org
