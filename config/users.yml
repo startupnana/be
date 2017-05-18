@@ -1,8 +1,4 @@
-- user: mpapi
-  password: mp2014webapi
-- user: nsw
-  password: nsw_key
-- user: istudio
-  password: istudio_key
+- user: nana
+  password: nana2017
 # - user: anotheruser
 #   password: anotherpassword

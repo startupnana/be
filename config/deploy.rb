@@ -1,5 +1,5 @@
 set :application, 'serverapi_rails'
-set :repo_url, 'git@github.com:MotionPortrait/serverapi_rails.git'
+set :repo_url, 'https://github.com/startupnana/be.git'
 set :whenever_identifier, ->{ "#{fetch(:application)}_#{fetch(:stage)}" }
 
 # Default branch is :master
